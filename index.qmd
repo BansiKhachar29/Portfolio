@@ -22,12 +22,7 @@ editor: visual
 
 This is a Quarto website.
 
-<<<<<<< HEAD
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-=======
-To learn more about Quarto websites visit [https://quarto.](https://quarto.org/docs/websites){.uri}git config --global user.name "Your Name"git config --global user.name "Your Name"[org/docs/websites](https://quarto.org/docs/websites){.uri}.
->>>>>>> 05fdd90 (Initial commit)
 
 ```{r}
 1 + 1
-```
