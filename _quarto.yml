@@ -17,4 +17,8 @@ format:
     css: styles.css
     toc: true
 
+<<<<<<< HEAD
 editor: visual
+=======
+editor: visual
+>>>>>>> 05fdd90 (Initial commit)

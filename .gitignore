@@ -2,4 +2,8 @@
 .Rproj.user
 .Rhistory
 .Rdata
+<<<<<<< HEAD
 .Ruserdata
+=======
+.Ruserdata
+>>>>>>> 05fdd90 (Initial commit)
